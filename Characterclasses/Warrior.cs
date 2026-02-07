@@ -21,8 +21,7 @@ namespace Dice_o_Clash
 
         }
 
-        public override void Attack() { }
-        public override void Block() { }
+
 
 
     }

@@ -11,6 +11,18 @@ namespace Dice_o_Clash
         static void Main(string[] args)
         {
 
+            CharacterSelect auswahl = new CharacterSelect();
+
+            Character playerSelect = auswahl.AuswahlPlayer();
+
+            Console.WriteLine("Deine Auswahl " + playerSelect.Name + " wurde erstellt!");
+
+            Character npcSelect = auswahl.AuswahlNpc();
+
+            Console.WriteLine("Dein Gegner " + npcSelect.Name + " wurde erstellt!");
+
+
+            Console.ReadKey();
         }
     }
 }

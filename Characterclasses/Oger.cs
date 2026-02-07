@@ -19,7 +19,7 @@ namespace Dice_o_Clash
             Attacks = 1;
         }
 
-        public override void Attack() { }
-        public override void Block() { }
+
+
     }
 }

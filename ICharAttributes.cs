@@ -29,11 +29,9 @@ namespace Dice_o_Clash
 
         // Waffe Variable
 
-        Weapons AusgeruesteteWaffe { get; set; }
+        Weapons SetWeapon { get; set; }
 
 
-        void Attack();
-        void Block();
 
 
 
