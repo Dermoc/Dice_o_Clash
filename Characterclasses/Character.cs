@@ -18,6 +18,7 @@ namespace Dice_o_Clash
         public int Attacks { get; set; }
 
 
+        public Weapons SelectedWeapon { get; set; }
 
         // Methoden
 

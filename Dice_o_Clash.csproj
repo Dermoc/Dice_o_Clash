@@ -43,11 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CharacterSelect.cs" />
     <Compile Include="Weapons\Dagger.cs" />
     <Compile Include="Weapons\Warhammer.cs" />
     <Compile Include="Weapons\Bow.cs" />
     <Compile Include="Weapons\Broadsword.cs" />
-    <Compile Include="Character.cs" />
+    <Compile Include="Characterclasses\Character.cs" />
     <Compile Include="Dices.cs" />
     <Compile Include="Characterclasses\Elf.cs" />
     <Compile Include="Fight.cs" />

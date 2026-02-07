@@ -27,7 +27,10 @@ namespace Dice_o_Clash
         int Attacks { get; set; }
 
 
-        // Waffe
+        // Waffe Variable
+
+        Weapons AusgeruesteteWaffe { get; set; }
+
 
         void Attack();
         void Block();
