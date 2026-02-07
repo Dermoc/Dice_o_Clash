@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CharacterSelect.cs" />
+    <Compile Include="WeaponSelect.cs" />
     <Compile Include="Weapons\Dagger.cs" />
     <Compile Include="Weapons\Warhammer.cs" />
     <Compile Include="Weapons\Bow.cs" />

@@ -91,8 +91,15 @@
   <Class Name="Dice_o_Clash.CharacterSelect">
     <Position X="9.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CharacterSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dice_o_Clash.Program">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="Dice_o_Clash.IAttack">
