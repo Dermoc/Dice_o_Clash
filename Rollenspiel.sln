@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice_o_Clash", "Dice_o_Clash.csproj", "{5145A84F-ABC2-47D8-BB49-61E0068A6639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5145A84F-ABC2-47D8-BB49-61E0068A6639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5145A84F-ABC2-47D8-BB49-61E0068A6639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5145A84F-ABC2-47D8-BB49-61E0068A6639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5145A84F-ABC2-47D8-BB49-61E0068A6639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70AF59C7-FD80-417E-99C1-BC6194F498ED}
+	EndGlobalSection
+EndGlobal
