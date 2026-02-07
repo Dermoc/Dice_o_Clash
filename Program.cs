@@ -14,6 +14,12 @@ namespace Dice_o_Clash
             CharacterSelect auswahl = new CharacterSelect();
             WeaponSelect waffenAuswahl = new WeaponSelect();
 
+            Console.WriteLine("Dice_o_Clash");
+            Console.WriteLine("written by Rainer Kleinmaier\n");
+
+            Console.WriteLine("Drücke eine Taste zum Starten!\n");
+
+            Console.ReadKey();
 
             //Player
 
@@ -32,7 +38,7 @@ namespace Dice_o_Clash
 
             Character npcSelect = auswahl.AuswahlNpc();
 
-            Console.WriteLine("Dein Gegner " + npcSelect.Name + " wurde erstellt!");
+            Console.WriteLine("\nDein Gegner " + npcSelect.Name + " wurde erstellt!");
             npcSelect.SetWeapon = waffenAuswahl.WeaponNpc();
             Console.WriteLine(npcSelect.Name + " führt die Waffe: " + npcSelect.SetWeapon.Name);
 
